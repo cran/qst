@@ -1,0 +1,15 @@
+8aad7b9ead0400949c1c7e5831d8bee0 *DESCRIPTION
+bc6384e4738adfaa3553451481775632 *LICENCE
+83400c133077f25597c1fa6f0d3ebd31 *NAMESPACE
+57c4e04d5e00fcd6c4370c0162ba4303 *NEWS.md
+dae29c76926a1329b2ef9180aa74dd94 *R/main.R
+98de053fd441be5ab83c5cd3ef4ac463 *R/qst.R
+65cef5e0674056f6fc07dd2b3ca85c13 *R/utils-pipe.R
+71e4046459e1f486db770358f5bc05b1 *R/utils-tibble.R
+2b83081a75c5707054630edd2a4c42a3 *README.md
+4894ca10756199e25f914bfd34f517b0 *man/pipe.Rd
+86c17572864b5e2c461019ac4e368421 *man/qst.Rd
+da11ee66b5ad0e6b2a3b5b2d71f4d20a *man/read_qst.Rd
+b7abcabdab347923171e594ada8af3ca *man/tibble.Rd
+362cb70ce0c90d76d0af5e51907eee8b *man/write_qst.Rd
+cc4e8768681eccd2cc40dc79948f6444 *tests/testthat/test.R
